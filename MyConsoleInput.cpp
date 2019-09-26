@@ -3,7 +3,11 @@
  *	This is the implimentation file for a re-usable library of input 
  *	validation functions.
  *	   
+<<<<<<< HEAD
  *	@author		Thom MacDonalds
+=======
+ *	@author		Thom MacDonald
+>>>>>>> master
  *	@author		<your name>
  *	@version	2018.01
  *	@since		Jan 2018
@@ -12,6 +16,12 @@
  *					Boston, MA: Course Technology.
 <<<<<<< HEAD
 */ 
+<<<<<<< HEAD
+=======
+=======
+*/
+>>>>>>> master
+>>>>>>> master
 
 #include <iostream>
 #include <iomanip>
