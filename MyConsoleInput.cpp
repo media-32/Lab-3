@@ -15,7 +15,17 @@
  *					In A First Book of C++ (4th ed.). 
  *					Boston, MA: Course Technology.
 <<<<<<< HEAD
+<<<<<<< HEAD
 */
+=======
+*/ 
+<<<<<<< HEAD
+=======
+=======
+*/
+>>>>>>> master
+>>>>>>> master
+>>>>>>> master
 
 #include <iostream>
 #include <iomanip>
