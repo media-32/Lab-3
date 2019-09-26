@@ -9,7 +9,7 @@
  *	@see 		Bronson, G. (2012).  Chapter 6 Modularity Using Functions. 
  *					In A First Book of C++ (4th ed.). 
  *					Boston, MA: Course Technology.
-*/
+*/ mmm
 
 #ifndef MY_CONSOLE_INPUT_H
 
