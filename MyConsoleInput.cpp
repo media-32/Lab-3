@@ -10,7 +10,11 @@
  *	@see 		Bronson, G. (2012).  Chapter 6 Modularity Using Functions. 
  *					In A First Book of C++ (4th ed.). 
  *					Boston, MA: Course Technology.
+<<<<<<< HEAD
 */ mmm
+=======
+*/
+>>>>>>> master
 
 #include <iostream>
 #include <iomanip>
